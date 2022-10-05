@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, sewing, singing
 - 🌱 I’m currently learning to be a Front End Developer
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Susanne Arnetz Linder on LinkedIn
+- 📫 How to reach me - search for Susanne Arnetz Linder on LinkedIn
 
 <!---
 arnetzlinder/arnetzlinder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
