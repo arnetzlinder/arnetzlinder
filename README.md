@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arnetzlinder
 - 👀 I’m interested in coding, sewing, singing
-- 🌱 I’m currently learning to be a Front End Developer
+- 🌱 I’m currently a newly examined Front End Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - search for Susanne Arnetz Linder on LinkedIn
 
